@@ -1,0 +1,38 @@
+*{
+
+}
+
+body{
+	text-align:center;
+	justify-content: center;
+	background: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header{
+	background-color: #FFD445;
+	color: white;
+}
+
+.container{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 350px;
+	margin-right: 500px;
+	width: 900px;
+	padding: 3%;
+	border-radius: 2%;
+	background-color: dodgerblue;
+}
+
+.container2{
+	padding:20px;
+	background-color: #FFD445;
+	color:white;
+	width: 500px;
+	margin-left: 160px;
+	margin-right: 400px;
+	border-radius: 3%;
+}
+
